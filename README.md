@@ -13,7 +13,7 @@ Meu nome é Edoardo Tombolesi, 19, Estudante de Engenharia de Software na Ceulp/
 - :blue_heart: Stack: Python, JavaScript e Git
 - :books: Estudando: Tudo, sou um estudante do primeiro semestre, e estou me aprimorando para melhorar esse portifólio!
 
-> :octocat: [lucasbittencourt.dev](https://github.com/PyEdoardo)
+> :octocat: [![Github Badge](https://github.com/PyEdoardo)
 
 ---
 
