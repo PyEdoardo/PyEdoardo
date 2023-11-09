@@ -1,6 +1,6 @@
 # :man_technologist: Edoardo Tombolesi
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/edoardo-tombolesi)](www.linkedin.com/in/edoardo-tombolesi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link)](www.linkedin.com/in/edoardo-tombolesi)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_edoardot)](https://twitter.com/_edoardot)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:edoardotombolesi8@gmail.com)](mailto:edoardotombolesi8@gmail.com)
 
