@@ -9,9 +9,9 @@
 Meu nome é Edoardo Tombolesi, 20y, Estudante de Engenharia de Software na Ceulp/Ulbra Palmas - TO
 
 - :office_worker: Estudante
-- :blue_heart: Stack: Java, Python, C++ e Git
+- :blue_heart: Stack: Java, C#, C++ e Python
 - :books: Estudando: Tudo, sou um estudante do primeiro semestre, e estou me aprimorando para melhorar esse portifólio!
-- 💡 Skills: Uso Avançado em Windows, Linux, tenho facilidade com Bash e Powershell, Fluente em Italiano, Inglês Médio
+- 💡 Skills: Uso Avançado em Windows, Linux, tenho facilidade com Bash e Powershell, Fluente em Italiano, Inglês Médio e Git Intermediário
 
 > :octocat: [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PyEdoardo)
 
