@@ -6,7 +6,7 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
 
-Meu nome é Edoardo Tombolesi, 20y, Estudante de Engenharia de Software na Ceulp/Ulbra Palmas - TO
+Meu nome é Edoardo Tombolesi, 21y, Estudante de Engenharia de Software na Ceulp/Ulbra Palmas - TO
 
 - :office_worker: Estudante
 - :blue_heart: Stack: Java, C#, C++ e Python
