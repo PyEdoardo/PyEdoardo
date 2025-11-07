@@ -73,9 +73,9 @@ Gosto de construir projetos com propósito e explorar diferentes linguagens e pa
 
 <div align="center">
 
-![Edoardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdoardoUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoUsername&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=EdoardoUsername&theme=tokyonight&hide_border=true)
+![Edoardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyEdoardo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PyEdoardo&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=PyEdoardo&theme=tokyonight&hide_border=true)
 
 </div>
 
